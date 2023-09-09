@@ -63,3 +63,4 @@ reset.addEventListener('click', function()  {
 	estadoDelCronometro = 'pausado';
 })
 
+alert('Si esta en dispositivo movil, pongalo en horizontal')
